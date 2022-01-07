@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mario.rod.gonz97@gmail.com
+	name = Mario Rodriguez
